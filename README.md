@@ -2,6 +2,10 @@
 
 ⚠️ This tool was created for testing purposes and is not recommended for use in production environments.
 
+<a href="https://glama.ai/mcp/servers/@m-yoshiro/storybook-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@m-yoshiro/storybook-mcp/badge" alt="Storybook Server MCP server" />
+</a>
+
 <!-- This project provides a custom [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) server that integrates with Storybook to support UI implementation from Figma designs.
 
 It enables AI tools (like Cursor, Claude, or Roo) to query available UI components, retrieve usage examples, and help non-developers (especially designers) collaborate more directly in frontend development workflows. -->
